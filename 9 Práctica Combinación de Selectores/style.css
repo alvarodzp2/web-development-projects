@@ -1,1 +1,22 @@
 /* Write your code here: */
+
+h1,
+h2 {
+  color: rgb(66, 240, 240);
+}
+
+.box > p {
+  color: firebrick;
+}
+
+.box li {
+  color: rgb(6, 141, 58);
+}
+
+li.done {
+  color: rgb(71, 4, 255);
+}
+
+ul p.done {
+  font-size: 0.5rem;
+}
